@@ -1,0 +1,2 @@
+D:\git\자료구조\DataStructure\[CH6]스택을 활용한 계산기\Debug\[CH6]스택을 활용한 계산기.exe
+D:\git\자료구조\DataStructure\[CH6]스택을 활용한 계산기\Debug\[CH6]스택을 활용한 계산기.pdb
